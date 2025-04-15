@@ -1,3 +1,3 @@
 # Dentlink Dashboard by Briley
 
-This is a GitHub-ready version for Vercel auto-deployment.
+This is a fully working version with visible UI content.
